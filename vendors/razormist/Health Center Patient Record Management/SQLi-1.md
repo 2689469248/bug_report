@@ -2,8 +2,6 @@
 
 BUG_Author: wangte
 
-Website source address:https://www.sourcecodester.com/php/11058/health-center-patient-record-management-system.html
-
 Vulnerability File: /HCPMS/login.php
 
 form-data parameter name="username" (POST), exists SQL injection vulnerability
