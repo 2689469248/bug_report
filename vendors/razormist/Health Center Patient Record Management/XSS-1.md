@@ -1,7 +1,5 @@
 # Health Center Patient Record Management System v1.0 has Cross-site scripting (reflected)
 
-Website source address:https://www.sourcecodester.com/php/11058/health-center-patient-record-management-system.html
-
 BUG_Author: wangte
 
 Vulnerability File: /HCPMS/birthing_print.php
